@@ -22,3 +22,6 @@
 [submodule "analysis/rheology"]
 	path = analysis/rheology
 	url = https://github.com/TFLVerouden/tcm-rheology.git
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/TFLVerouden/tcm-hardware.git
