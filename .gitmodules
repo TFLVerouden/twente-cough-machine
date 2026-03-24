@@ -4,24 +4,32 @@
 [submodule "control"]
 	path = control
 	url = https://github.com/TFLVerouden/tcm-control.git
+	branch = main
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/TFLVerouden/tcm-firmware.git
+	branch = main
 [submodule "utils"]
 	path = utils
 	url = https://github.com/TFLVerouden/tcm-utils.git
+	branch = main
 [submodule "analysis/piv"]
 	path = analysis/piv
 	url = https://github.com/TFLVerouden/tcm-piv.git
+	branch = main
 [submodule "analysis/dropsize"]
 	path = analysis/dropsize
 	url = https://github.com/TFLVerouden/tcm-dropsize-analysis.git
+	branch = main
 [submodule "analysis/video"]
 	path = analysis/video
 	url = https://github.com/TFLVerouden/tcm-video-analysis.git
+	branch = main
 [submodule "analysis/rheology"]
 	path = analysis/rheology
 	url = https://github.com/TFLVerouden/tcm-rheology.git
+	branch = main
 [submodule "hardware"]
 	path = hardware
 	url = https://github.com/TFLVerouden/tcm-hardware.git
+	branch = main
