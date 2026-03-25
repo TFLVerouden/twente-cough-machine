@@ -33,3 +33,7 @@
 	path = hardware
 	url = https://github.com/TFLVerouden/tcm-hardware.git
 	branch = main
+[submodule "poster"]
+	path = poster
+	url = https://github.com/TFLVerouden/tcm-poster.git
+	branch = main
